@@ -1,0 +1,2 @@
+# Twitter Sentiment Analysis
+This notebook is an exercise in using a natural language processing model to analyze the sentiment of tweets scraped from Twitter. The model is trained on a data set of tweets labeled with a sentiment of either positive, negative, neutral, or irrelevant. The model is then applied to a test data set to predict the sentiment of tweets that the model had not yet seen. The model's predictions are compared to the actual sentiment labels to provide a measure of accuracy.
